@@ -1,4 +1,3 @@
-# Counter-app
 🚀✨ Help beginners to contribute to open source projects
 
 # Counter App
@@ -18,3 +17,6 @@ A very simple counter / clicker app for learning basic JavaScript DOM, event lis
 - Adding click event listeners to buttons.
 - Managing simple state with a JavaScript variable.
 - Using `localStorage.setItem` and `localStorage.getItem` to persist data.
+
+- Happy Coding 💻
+
